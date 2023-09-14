@@ -94,3 +94,143 @@
     color:rgb(5, 63, 23);
     background-color:rgb(174, 230, 102); ;
 }
+
+#round_image1{
+    height: 250px;
+    width:250px;
+    border:5px solid rgb(86, 207, 98);
+    border-radius: 50%;
+    background-image: url("Images/plant2.jpeg");
+    background-size: cover;
+    display: inline-block;
+    margin-right:100px;
+    margin-left:100px;
+}
+
+#round_image2{
+    height: 250px;
+    width:250px;
+    border:5px solid rgb(86, 207, 98);
+    border-radius: 50%;
+    background-image: url("Images/seeds.avif");
+    background-size: cover;
+    display: inline-block;
+    margin-right:100px;
+    margin-left:100px;
+}
+
+#round_image3{
+    height: 250px;
+    width:250px;
+    border:5px solid rgb(86, 207, 98);
+    border-radius: 50%;
+    background-image: url("Images/accessories2.jpg");
+    background-size: cover;
+    display: inline-block;
+    margin-right:100px;
+    margin-left:100px;
+}
+
+#all_round{
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+#name1{
+    color:#4C956C;
+    font-weight: 600;
+    display: inline;
+    margin-left: 265px;
+    text-decoration:none;
+}
+
+#name2{
+    color:#4C956C;
+    font-weight: 600;
+    display: inline;
+    margin-left: 400px;
+    text-decoration:none;
+}
+
+#name3{
+    color:#4C956C;
+    font-weight: 600;
+    display: inline;
+    margin-left: 380px;
+    text-decoration:none;
+}
+
+.paglu{
+    display: inline-block;
+}
+
+
+#lowbar{
+ background-image: url("Images/background2.jpg");
+ background-size: cover;
+}
+
+#reviews{
+    font-weight: 700;
+    font-family:cursive;
+    font-size: larger;
+    color: rgb(67, 97, 48);
+    text-align: center;
+    padding-top: 15px;
+}
+#main_review{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    line-height: 25px;
+    font-size: 20px;
+}
+#about{
+    font-weight: 700;
+    font-family:cursive;
+    font-size: larger;
+    color: rgb(67, 97, 48);
+    text-align: center;
+}
+#main_about{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    text-align: center;
+    line-height: 25px;
+    font-size: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#all_plants{
+    padding-top: 100px;
+    padding-left: 50px;
+    padding-right: 50px;
+   
+}
+/* .plants{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    text-decoration: underline rgb(14, 219, 58);
+    color: #339d63;
+
+} */
+#plants_img{
+    text-align: center;
+    padding-top: 25px;
+    
+}
+#all_seeds{
+    padding-top: 100px;
+}
+
+.seed{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#form{
+    
+}
+
